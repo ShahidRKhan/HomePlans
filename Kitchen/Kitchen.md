@@ -1,9 +1,9 @@
----
-title: Kitchen
-layout: default
----
 
-![alt text](image.png)
+# Kitchen Layout
 
-![Back To Home Page](README.md)
+[Back To Home Page](../)
+
+### More details to follow
+
+[Back To Home Page](../)
 

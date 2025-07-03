@@ -5,9 +5,6 @@
 [Back To Home Page](../../)
 
 
-
-## 1st Flr - Common
-
 ### Side View -1stFlr-Common
 
 ![Side View 1](1stFlrCommonSideView1.png)

@@ -37,7 +37,9 @@
 
 ### Side View
 
-![Side View 1](1stFlrCommon.png)
+![Side View 1](1stFlrCommonSideView1.png)
+
+![Side View 2](1stFlrCommonSideView1.jpg)
 
 
 ### Front View

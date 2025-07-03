@@ -1,6 +1,6 @@
 
 
-# Bathrooms
+# <font color="Maroon"> Bathrooms</>
 
 [Back To Home Page](../)
 

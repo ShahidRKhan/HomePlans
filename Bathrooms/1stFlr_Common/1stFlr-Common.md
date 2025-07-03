@@ -2,7 +2,7 @@
 
 # <font color="Maroon">1st Flr - Common Bathroom </font>
 
-[Back To Home Page](../)
+[Back To Home Page](../../)
 
 
 
@@ -28,4 +28,4 @@
 ![1stFlr_Common_TopView](1stFlr_Common_TopView.png)
 
 
-[Back To Home Page](../)
+[Back To Home Page](../../)

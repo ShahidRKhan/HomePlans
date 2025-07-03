@@ -1,7 +1,7 @@
  
 # Home Plan
 
-## [Kitchen Plan](Kitchen/Kitchen.md)
+## [Kitchen](Kitchen/Kitchen.md)
 
 ## [Bathrooms](Bathrooms/Bathrooms.md)
 

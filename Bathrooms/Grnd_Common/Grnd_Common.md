@@ -2,7 +2,7 @@
 
 # <font color="Maroon"> Grnd Flr - Common Bathroom </font>
 
-[Back To Home Page](../)
+[Back To Home Page](../../)
 
 
 ### Side View- Grnd-Common
@@ -23,4 +23,4 @@
 ![Top View- Grnd-Common](Grnd_Common_TopView.png)
 
 
-[Back To Home Page](../)
+[Back To Home Page](../../)

@@ -1,6 +1,6 @@
  
 ### Kitchen Plan
-[Kitchen](Kitchen\Kitchen.md)
+[Kitchen](Kitchen/Kitchen.md)
 
 ### Bathrooms
-[Bathroom](Bathrooms\Bathrooms.md)
+[Bathroom](Bathrooms/Bathrooms.md)

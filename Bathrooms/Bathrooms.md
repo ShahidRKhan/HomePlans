@@ -1,11 +1,11 @@
 
 
-# <font color="Maroon"> Bathrooms <font/>
+# <font color="Maroon"> Bathrooms </font>
 
 [Back To Home Page](../)
 
 
-## <font color="Blue"> Common Bath- 1st Flr <font/>
+## <font color="Dark green"> Common Bath- 1st Flr </font>
 
 ### Side View
 

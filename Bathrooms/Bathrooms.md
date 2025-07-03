@@ -39,7 +39,7 @@
 
 ![Side View 1](1stFlrCommonSideView1.png)
 
-![Side View 2](1stFlrCommonSideView1.jpg)
+![Side View 2](1stFlrCommonSideView2.jpg)
 
 
 ### Front View

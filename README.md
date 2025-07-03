@@ -1,8 +1,6 @@
  
 ## Home Plan
 
-### Kitchen Plan
-[Show](Kitchen/Kitchen.md)
+### [Kitchen Plan](Kitchen/Kitchen.md)
 
-### Bathrooms
-[Show](Bathrooms/Bathrooms.md)
+### [Bathrooms](Bathrooms/Bathrooms.md)

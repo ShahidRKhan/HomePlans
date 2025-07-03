@@ -1,3 +1,8 @@
+
+---
+title: Bathroom
+layout: default
+---
 # Bathrooms
 
 ## 1st Floor Common Bath

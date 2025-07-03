@@ -5,7 +5,7 @@
 [Back To Home Page](../)
 
 
-## 1st Floor Common Bath
+## Common Bath- 1st Flr
 
 ### Side View
 
@@ -18,7 +18,7 @@
 
 ### Rear View
 
-![alt text](1stFlr_Common_RearView.png)
+![1stFlr_Common_RearView](1stFlr_Common_RearView.png)
 
 ### Top View
 

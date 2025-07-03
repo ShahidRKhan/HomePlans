@@ -4,14 +4,26 @@
 
 [Back To Home Page](../)
 
-## Bathrooms
-- [Grnd Flr - Common](#grnd-flr---common)
-- [Grnd Flr - Attached](#grnd-flr---attached)
-- [1st Flr - Common](#1st-flr---common)
-- [1st Flr - Attached](#1st-flr---attached)
+1. [Grnd Flr - Common](#grnd-flr---common)
+2. [Grnd Flr - Attached](#grnd-flr---attached)
+3. [1st Flr - Common](#1st-flr---common)
+4. [1st Flr - Attached](#1st-flr---attached)
   
 
 ## Grnd Flr - Common
+
+### Side View- Grnd-Common
+![Side View- Grnd-Common](Grnd_Common_sideView.png)
+
+### Front View- Grnd-Common
+![Front View -Grnd-Common](Grnd_Common_FrontView.png)
+
+### Rear View- Grnd-Common
+![Rear View- Grnd-Common](Grnd_Common_RearView.png)
+
+### Top View- Grnd-Common
+![Top View- Grnd-Common](Grnd_Common_TopView.png)
+
 
 ## Grnd Flr - Attached
 

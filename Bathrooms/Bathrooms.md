@@ -5,7 +5,7 @@
 [Back To Home Page](../)
 
 
-## Common Bath- 1st Flr
+## <font color="Blue"> Common Bath- 1st Flr </>
 
 ### Side View
 

@@ -11,6 +11,9 @@
 
 ![Side View 2](1stFlrCommonSideView2.jpg)
 
+![Side View 3](1stFlrCommonSideView3.jpg)
+
+
 
 ### Front View -1stFlr-Common
 

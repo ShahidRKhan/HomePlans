@@ -1,4 +1,4 @@
- <font color="Maroon"> Grnd Flr - Attached Bathroom </font>
+ <font color="Maroon"> External Stairs </font>
 
 [Back To Home Page](../)
 
@@ -8,5 +8,7 @@
 
 ## Side Stairs
 ![Side Stairs](SideStairs.jpg)
+
+
 
 [Back To Home Page](../)

@@ -6,13 +6,14 @@
 
 
 ### Side View- Grnd-Common
-![Side View- Grnd-Common](Grnd_Common_sideView.png)
+![Side View- Grnd-Common](Grnd_Common_sideView.jpg)
 
 ### Side View2- Grnd-Common
 ![Side View2- Grnd-Common](Grnd_Common_sideView2.jpg)
 
 ### Front View- Grnd-Common
-![Front View -Grnd-Common](Grnd_Common_FrontView.png)
+![Front View -Grnd-Common](Grnd_Common_FrontView.jpg)
+
 
 ### Rear View- Grnd-Common
 ![Rear View- Grnd-Common](Grnd_Common_RearView.png)

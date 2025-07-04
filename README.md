@@ -3,7 +3,7 @@
 
 ## [Kitchen](Kitchen/Kitchen.md)
 
-## [Bathrooms](Bathrooms/Bathrooms.md)
+## Bathrooms
 
 1. [Grnd  Common](Bathrooms/Grnd_Common/Grnd_Common.md)
 2. [Grnd Attached](Bathrooms/Grnd_Attached/Grnd_attached.md)

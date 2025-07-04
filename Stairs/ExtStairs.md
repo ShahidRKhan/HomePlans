@@ -1,4 +1,4 @@
- <font color="Maroon"> External Stairs </font>
+# External Stairs
 
 [Back To Home Page](../)
 

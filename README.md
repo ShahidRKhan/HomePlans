@@ -10,5 +10,5 @@
 3. [1st Floor Common](Bathrooms/1stFlr_Common/1stFlr-Common.md)
 4. [1st Floor Attached](Bathrooms/1stFlr_Attached/1stFlr_attached.md)
 
-##[External Stairs](Stairs/ExtStairs.md)
+## [External Stairs](Stairs/ExtStairs.md)
 

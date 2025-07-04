@@ -3,6 +3,8 @@
 [Back To Home Page](../../)
 
 ### Side View- Grnd-Attached
+
+![alt text](image.png)
 ![Side View 1](Grnd_attached_SideView1.jpg)
 
 ![Side View 2](Grnd_attached_SideView2.jpg)

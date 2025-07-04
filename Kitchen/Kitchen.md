@@ -3,7 +3,7 @@
 
 [Back To Home Page](../)
 
-### More details to follow
+![Kitchen](Kitchen.jpg)
 
 [Back To Home Page](../)
 

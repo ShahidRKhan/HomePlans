@@ -7,9 +7,11 @@
 
 ### Side View -1stFlr-Common
 
-![Side View 1](1stFlrCommonSideView1.png)
+![Side View 1](1stFlrCommonSideView1.jpg)
+
 
 ![Side View 2](1stFlrCommonSideView2.jpg)
+
 
 ![Side View 3](1stFlrCommonSideView3.jpg)
 
@@ -17,7 +19,8 @@
 
 ### Front View -1stFlr-Common
 
-![1stFlrCommon_FrontView](1stFlrCommon_FrontView.png)
+![1stFlrCommon_FrontView](1stFlrCommon_FrontView.jpg)
+
 
 ### Rear View -1stFlr-Common
 

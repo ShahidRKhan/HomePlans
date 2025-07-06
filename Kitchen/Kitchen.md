@@ -6,7 +6,11 @@
 
 ![Kitchen](Kitchen.jpg)
 
+
+
 ## Details
 ![Details](KitchenDetails.jpg)
+
+
 [Back To Home Page](../)
 

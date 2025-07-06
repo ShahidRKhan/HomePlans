@@ -1,6 +1,4 @@
-
-# <font color="Maroon"> Grnd Flr - Common Bathroom </font>
-
+# Roof Layout 
 [Back To Home Page](../)
 
 ![roof_dimensions](roof_dimensions.jpg)

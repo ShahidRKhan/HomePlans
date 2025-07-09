@@ -8,8 +8,10 @@
 
 
 
+
 ## Details
 ![Details](KitchenDetails.jpg)
+
 
 
 [Back To Home Page](../)

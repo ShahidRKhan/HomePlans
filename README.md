@@ -16,3 +16,6 @@
 
 1. [Roof Dimension](Roof/roof.md)
 
+## 1st Flr 
+1. [Lobby](1stFlr/1stFlr.md) 
+

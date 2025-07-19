@@ -5,10 +5,10 @@
 [Back To Home Page](../../)
 
 ### Side View- Grnd-Common
-![Side View- Grnd-Common](Grnd_Common_sideView.jpg)
+![Side View- Grnd-Common](Grnd_Common_sideView_with_dim.jpg)
 
 ### Side View2- Grnd-Common
-![Side View2- Grnd-Common](Grnd_Common_sideView2.jpg)
+![Side View2- Grnd-Common](Grnd_Common_sideView.jpg)
 
 ### Front View- Grnd-Common
 ![Front View -Grnd-Common](Grnd_Common_FrontView.jpg)

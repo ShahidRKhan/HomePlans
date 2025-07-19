@@ -4,7 +4,6 @@
 
 [Back To Home Page](../../)
 
-
 ### Side View- Grnd-Common
 ![Side View- Grnd-Common](Grnd_Common_sideView.jpg)
 

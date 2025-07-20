@@ -4,7 +4,13 @@
 
 ### Side View- Grnd-Attached
 
+#### Dimensions in mm
+![alt text](Grnd_attached_SideView1_mm.jpg)
+
+#### Dimensions in Inches
 ![Side View 1](Grnd_attached_SideView1.jpg)
+
+#### Side views
 
 ![Side View 2](Grnd_attached_SideView2.jpg)
 
@@ -15,8 +21,14 @@
 ![Front View](Grnd_attached_Front.jpg)
 
 ### Rear View- Grnd-Attached
+#### Dimenstions in mm
+![Rear view -mm](Grnd_attached_Rear_mm.jpg)
+
+#### Dimensions in inches
 
 ![Rear View](Grnd_attached_Rear.jpg)
+
+
 
 ### Top View- Grnd-Attached
 

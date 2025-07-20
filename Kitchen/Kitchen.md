@@ -6,11 +6,20 @@
 
 ![Kitchen](Kitchen.jpg)
 
+## Side view
+
+![Side view](kitchenSideView.jpg)
 
 
 
 ## Details
-![Details](KitchenDetails.jpg)
+
+### Dimensions in Millimeters (mm)
+![Dimenstions in inches](KitchenDetails-mm.jpg)
+
+### Dimensions in Ft and Inches
+
+![Details](KitchenDetails-inches.jpg)
 
 
 

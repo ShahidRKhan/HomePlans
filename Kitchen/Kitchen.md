@@ -21,7 +21,11 @@
 
 ![Details](KitchenDetails-inches.jpg)
 
+## Counter Base
 
+![Counter Base](Kitchen_counterBase.jpg)
+
+![Counter Base mm](Kitchen_counterBase-mm.jpg)
 
 [Back To Home Page](../)
 

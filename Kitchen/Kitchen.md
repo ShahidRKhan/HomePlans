@@ -27,6 +27,7 @@
 
 ![Counter Base mm](Kitchen_counterBase-mm.jpg)
 
+## Power Outlet
 ![Power outlet](Kitchen_PowerOutlet.jpg)
 
 [Back To Home Page](../)

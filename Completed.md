@@ -2,6 +2,8 @@
 
 [Back To Home Page](./)
 
+## [Wall Colors](WallColors.md)
+
 ## [Kitchen](Kitchen/Kitchen.md)
 
 ## Bathrooms

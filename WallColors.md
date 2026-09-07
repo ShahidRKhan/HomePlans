@@ -82,18 +82,18 @@ _3 Walls = base color, 4th Wall = accent color. Each cell includes which wall(s)
   </tbody>
 </table>
 
-## Reference Swatch Photos
+## Reference Sample Photos
 
-### Ground Flr - Kitchen
+### Kitchen
 ![Kitchen swatch](WallColors/GroundFlr_Kitchen_Swatch.png)
 
-### Ground Flr - Room1 (attached bath) & Room2
+### Ground Flr 
 ![Ground Flr swatches](WallColors/GroundFlr_Room1AttachedBath_and_Room2_Swatches.jpg)
 
-### 1st Flr - Room1 (with Bath)
+### 1st Flr 
 ![1st Flr Room1 swatches](WallColors/1stFlr_Room1_Swatches.png)
 
-### 1st Flr - Room2
+
 ![1st Flr Room2 swatches](WallColors/1stFlr_Room2_Swatches.png)
 
 [Back To Home Page](./)

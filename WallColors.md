@@ -17,15 +17,14 @@ _3 Walls = base color, 4th Wall = accent color. Each cell includes which wall(s)
     <tr>
       <td style="border: 1px solid #333; padding: 8px;">Ground Flr</td>
       <td style="border: 1px solid #333; padding: 8px;">Room1 (with attached bath)</td>
-      <td style="border: 1px solid #333; padding: 8px; background-color: #D8ECEF; color: #222;">Solitude- 9228</td>
-      <td style="border: 1px solid #333; padding: 8px; background-color: #4A93A8; color: #fff;">Vitality-7472<br><small>Wall oposite bed with no windows</small></td>
-    </tr>
+       <td style="border: 1px solid #333; padding: 8px; background-color: #F0EAD6; color: #222;">Pearl Star - L103</td>
+      <td style="border: 1px solid #333; padding: 8px; background-color: #7C1F30; color: #fff;">Crimson Depth - X123<br><small>Wall oposite bed with no windows</small></td>
+     </tr>
     <tr>
       <td style="border: 1px solid #333; padding: 8px;">Ground Flr</td>
       <td style="border: 1px solid #333; padding: 8px;">Room2</td>
-      <td style="border: 1px solid #333; padding: 8px; background-color: #F0EAD6; color: #222;">Pearl Star - L103</td>
-      <td style="border: 1px solid #333; padding: 8px; background-color: #7C1F30; color: #fff;">Crimson Depth - X123<br><small>Wall opposite the large window, Right side to entry door</small></td>
-    </tr>
+       <td style="border: 1px solid #333; padding: 8px; background-color: #D8ECEF; color: #222;">Solitude- 9228</td>
+      <td style="border: 1px solid #333; padding: 8px; background-color: #4A93A8; color: #fff;">Vitality-7472<br><small>Wall opposite the large window, Right side to entry door</small></td></tr>
     <tr>
       <td style="border: 1px solid #333; padding: 8px;">Ground Flr</td>
       <td style="border: 1px solid #333; padding: 8px;">Guest Room</td>

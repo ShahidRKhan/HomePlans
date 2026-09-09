@@ -17,8 +17,8 @@ _3 Walls = base color, 4th Wall = accent color. Each cell includes which wall(s)
     <tr>
       <td style="border: 1px solid #333; padding: 8px;">Ground Flr</td>
       <td style="border: 1px solid #333; padding: 8px;">Room1 (with attached bath)</td>
-      <td style="border: 1px solid #333; padding: 8px; background-color: #D8ECEF; color: #222;"></td>
-      <td style="border: 1px solid #333; padding: 8px; background-color: #4A93A8; color: #fff;"><br><small>Wall oposite bed with no windows</small></td>
+      <td style="border: 1px solid #333; padding: 8px; background-color: #D8ECEF; color: #222;">Solitude- 9228</td>
+      <td style="border: 1px solid #333; padding: 8px; background-color: #4A93A8; color: #fff;">Vitality-7472<br><small>Wall oposite bed with no windows</small></td>
     </tr>
     <tr>
       <td style="border: 1px solid #333; padding: 8px;">Ground Flr</td>
